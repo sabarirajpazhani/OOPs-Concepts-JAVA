@@ -37,3 +37,5 @@ A **method** in Java is a block of code that performs a specific task. It can be
    Type: A method that does not return any value. It uses the void keyword.
    Explore the [Method without Return Type Program](Methods/Methods.java)
 
+## Recursion
+Recursion in Java is demonstrated through a Factorial Program that computes the factorial of a number using recursive calls. Explore a [Program](Recusion.java)
