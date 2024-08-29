@@ -27,3 +27,13 @@ This repository contains a comprehensive guide and examples on Object-Oriented P
 
 ## Demo
 Explore a [Java Program Demo](Demo.java) that illustrates the key concepts of OOP in Java. This includes how to define classes, create objects, and call methods.
+
+## Methods in Java
+A **method** in Java is a block of code that performs a specific task. It can be invoked to execute the code it contains.
+ - **Method with Return Type**
+      A method that returns a value after execution. The return type is specified before the method name (e.g., `int`, `String`).
+      Explore the [Method with Return Type Program](Methods/Methods.java)
+ - **Method without Return Type**
+   Type: A method that does not return any value. It uses the void keyword.
+   Explore the [Method without Return Type Program](Methods/Methods.java)
+
