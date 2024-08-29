@@ -42,3 +42,17 @@ Recursion in Java is demonstrated through a Factorial Program that computes the 
 
 ## Class and Object
 Understand the basics of Class and Object in Java, including how to instantiate objects and use their methods and attributes. Explore a [Program](ClassAndObject.java)
+#### Syntax for Class Creation
+```java
+access_modifier class ClassName {
+    // Fields (attributes)
+
+    // Constructor
+
+    // Methods
+}
+```
+#### Syntax for Object Creation
+```java
+ClassName objectName = new ClassName(arguments);
+```
