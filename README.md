@@ -58,5 +58,5 @@ ClassName objectName = new ClassName(arguments);
 ```
 
 #### **Programming Language:**
-  <img width="70" height="70" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
+  <img width="90" height="90" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
 
