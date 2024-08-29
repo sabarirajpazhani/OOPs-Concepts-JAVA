@@ -1,6 +1,6 @@
 # OOPs Concepts in Java
 
-![Java OOPs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fobject-oriented-programming&psig=AOvVaw1WA8DMW7fr9s0IfZ57LF8e&ust=1725034202804000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODbw67LmogDFQAAAAAdAAAAABAK)
+![Java OOPs](https://media.istockphoto.com/id/1334767642/vector/flat-design-with-people-oop-object-oriented-programming-acronym.jpg?s=612x612&w=0&k=20&c=PB1rS9AnL-7OUbSxrLxQHMiLJEAjXt8d5B5H7bIe5Bg=)
 
 ## Overview
 
