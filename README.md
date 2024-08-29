@@ -39,3 +39,6 @@ A **method** in Java is a block of code that performs a specific task. It can be
 
 ## Recursion
 Recursion in Java is demonstrated through a Factorial Program that computes the factorial of a number using recursive calls. Explore a [Program](Recusion.java)
+
+## Class and Object
+Understand the basics of Class and Object in Java, including how to instantiate objects and use their methods and attributes. Explore a [Program](ClassAndObject.java)
