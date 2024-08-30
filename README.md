@@ -73,13 +73,11 @@ The pillars of OOPs (Object-Oriented Programming) are:
   - **Hybrid Inheritance:**
     A combination of two or more types of inheritance. Java supports hybrid inheritance using interfaces since multiple inheritance is not allowed directly.
     [See the Program](OOPsPillers/Inheritance/HybridInheritance.java)
-  
-    
-    
-  - [Polymorphism](#polymorphism)
-  - [Encapsulation](#encapsulation)
-  - [Abstraction](#abstraction)
-    
+  - **Hierarchical Inheritance:**
+     Multiple classes inherit from a single superclass. This creates a tree-like structure with one parent and multiple child classes.
+    [See the Program](OOPsPillers/Inheritance/HierarchicalInheritance.java)
+- **Polymorphism**
+  Polymorphism allows one to perform a single action in different ways. In Java, it can be achieved through method overloading and method overriding.
 
  
 ## Programming Language and Tools
