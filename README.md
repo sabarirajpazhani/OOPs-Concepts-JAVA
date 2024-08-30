@@ -134,7 +134,7 @@ Java allows you to create your own exception classes. These user-defined excepti
 - **User-Defined Exception Example:**  
   [See the Program](ExceptionalHandling/UserDefinedException.java)
 
-## Constructors
+## Constructor
 A constructor in Java is a special method used to initialize objects. It is called when an object of a class is created. Constructors have the same name as the class and do not have a return type. There are two types of constructors in Java: default constructors and parameterized constructors.
 
 ### 1. **Default Constructor**
