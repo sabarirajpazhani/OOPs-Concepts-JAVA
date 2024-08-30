@@ -59,12 +59,17 @@ ClassName objectName = new ClassName(arguments);
 
 ## OOPs Pilers
 The pillars of OOPs (Object-Oriented Programming) are:
-    ### 1. Inheritance
-    Mechanism where a new class inherits properties and behavior from an existing class, promoting code reuse.
-      -  **Single Inheritance**
-      A class inherits from one single superclass. This is the simplest form of inheritance.
-      **Example:** Class B extends Class A means Class B inherits from Class A.
+- [Inheritance]
+   Mechanism where a new class inherits properties and behavior from an existing class, promoting code reuse.
+  - [Single Inheritance]
+    A class inherits from one single superclass. This is the simplest form of inheritance.
+     **Example:** Class B extends Class A means Class B inherits from Class A.
       [See the Program](OOPsPillers/Inheritance/SingleInheritance.java)
+    
+  - [Polymorphism](#polymorphism)
+  - [Encapsulation](#encapsulation)
+  - [Abstraction](#abstraction)
+    
 
  
 ## Programming Language and Tools
