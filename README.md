@@ -59,12 +59,22 @@ ClassName objectName = new ClassName(arguments);
 
 ## OOPs Pilers
 The pillars of OOPs (Object-Oriented Programming) are:
-- **Inheritance**
+- **Inheritance:**
    Mechanism where a new class inherits properties and behavior from an existing class, promoting code reuse.
-  - **1.Single Inheritance**
+  - **Single Inheritance**
     A class inherits from one single superclass. This is the simplest form of inheritance.
-     **Example:** Class B extends Class A means Class B inherits from Class A.
       [See the Program](OOPsPillers/Inheritance/SingleInheritance.java)
+  - **Multiple Inheritance:**
+    A class inherits from more than one superclass. Java does not support multiple inheritance directly to avoid the "diamond problem" but can achieve similar behavior using interfaces.
+     [See the Program](MultipleInheritanceUsingInterface.java)
+  - **Multilevel Inheritance:**
+    A class is derived from a class which is also derived from another class. This forms a chain of inheritance.
+    [See the Program](OOPsPillers/Inheritance/MultilevelInheritance.java)
+  - **Hybrid Inheritance:**
+    A combination of two or more types of inheritance. Java supports hybrid inheritance using interfaces since multiple inheritance is not allowed directly.
+    [See the Program](OOPsPillers/Inheritance/HybridInheritance.java)
+  
+    
     
   - [Polymorphism](#polymorphism)
   - [Encapsulation](#encapsulation)
