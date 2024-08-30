@@ -158,7 +158,37 @@ An abstract class in Java is a class that cannot be instantiated on its own and 
 ### 2. **Abstract Method**
 An abstract method is a method that is declared without an implementation (no body). It must be overridden by subclasses that inherit the abstract class.
 
- 
+
+## Special Keywords
+Java provides several special keywords that have specific purposes and play an important role in the language's functionality. Here’s an overview of the special keywords `final`, `static`, `super`, and `this`.
+
+### 1. **`final` Keyword**
+The `final` keyword in Java is used to define constants, prevent method overriding, and prevent inheritance of classes. It can be applied to variables, methods, and classes.
+
+- **Final Keyword Example:**  
+  [See the Program](SpecialKeyWords/FinalKey.java)
+
+### 2. **`static` Keyword**
+The `static` keyword is used to define class-level methods and variables that can be accessed without creating an instance of the class. It is also used for memory management.
+
+- **Static Keyword Example:**  
+  [See the Program](SpecialKeyWords/StaticKeyWord.java)
+
+### 3. **`super` Keyword**
+The `super` keyword is used to refer to the immediate parent class of the current object. It is used to access parent class methods and constructors that are hidden by the child class.
+
+- **Super Keyword Example:**  
+  [See the Program](SpecialKeyWords/SuperKey.java)
+
+### 4. **`this` Keyword**
+The `this` keyword is used to refer to the current instance of the class. It can be used to distinguish instance variables from local variables, call other constructors, and pass the current object as a parameter.
+
+- **This Keyword Example:**  
+  [See the Program](SpecialKeyWords/thisKey.java)
+
+
+
+
 ## Programming Language and Tools
 #### Programming Language
   <img width="90" height="90" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
