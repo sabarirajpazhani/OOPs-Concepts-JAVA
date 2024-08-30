@@ -155,6 +155,8 @@ Abstraction is one of the fundamental concepts of OOP that focuses on hiding the
 ### 1. **Abstract Class**
 An abstract class in Java is a class that cannot be instantiated on its own and is meant to be subclassed. It may contain abstract methods (methods without a body) as well as concrete methods (methods with a body).
 
+### 2. **Abstract Method**
+An abstract method is a method that is declared without an implementation (no body). It must be overridden by subclasses that inherit the abstract class.
 
  
 ## Programming Language and Tools
