@@ -116,6 +116,24 @@ This exception occurs when an arithmetic operation, such as division by zero, is
 - **ArithmeticException Example:**  
   [See the Program](ExceptionalHandling/ArithmaticException.java)
 
+### 2. **Finally**
+The `finally` block is used to execute important code such as closing resources, regardless of whether an exception is handled or not. It is executed after the `try` and `catch` blocks.
+
+- **Finally Example:**  
+  [See the Program](ExceptionalHandling/Finally.java)
+
+### 3. **Throw**
+The `throw` keyword is used to explicitly throw an exception, either a predefined exception or a custom exception. It is used within a method or a block of code.
+
+- **Throw Example:**  
+  [See the Program](ExceptionalHandling/Throw.java)
+
+### 4. **User-Defined Exception**
+Java allows you to create your own exception classes. These user-defined exceptions can be thrown and caught like built-in exceptions.
+
+- **User-Defined Exception Example:**  
+  [See the Program](ExceptionalHandling/UserDefinedException.java)
+
 
 
  
