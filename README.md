@@ -143,6 +143,11 @@ A default constructor is a constructor that takes no arguments. If no constructo
 - **Default Constructor Example:**  
   [See the Program](Constructor/DefaultConstructor.java)
 
+### 2. **Parameterized Constructor**
+A parameterized constructor is a constructor that takes arguments to initialize an object with specific values.
+
+- **Parameterized Constructor Example:**  
+  [See the Program](Constructor/ParameterConstructor.java)
  
 ## Programming Language and Tools
 #### Programming Language
