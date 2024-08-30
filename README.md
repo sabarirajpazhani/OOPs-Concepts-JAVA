@@ -57,27 +57,55 @@ access_modifier class ClassName {
 ClassName objectName = new ClassName(arguments);
 ```
 
-## OOPs Pilers
-The pillars of OOPs (Object-Oriented Programming) are:
-- **Inheritance:**
-   Mechanism where a new class inherits properties and behavior from an existing class, promoting code reuse.
-  - **Single Inheritance**
-    A class inherits from one single superclass. This is the simplest form of inheritance.
-      [See the Program](OOPsPillers/Inheritance/SingleInheritance.java)
-  - **Multiple Inheritance:**
-    A class inherits from more than one superclass. Java does not support multiple inheritance directly to avoid the "diamond problem" but can achieve similar behavior using interfaces.
-     [See the Program](MultipleInheritanceUsingInterface.java)
-  - **Multilevel Inheritance:**
-    A class is derived from a class which is also derived from another class. This forms a chain of inheritance.
-    [See the Program](OOPsPillers/Inheritance/MultilevelInheritance.java)
-  - **Hybrid Inheritance:**
-    A combination of two or more types of inheritance. Java supports hybrid inheritance using interfaces since multiple inheritance is not allowed directly.
-    [See the Program](OOPsPillers/Inheritance/HybridInheritance.java)
-  - **Hierarchical Inheritance:**
-     Multiple classes inherit from a single superclass. This creates a tree-like structure with one parent and multiple child classes.
-    [See the Program](OOPsPillers/Inheritance/HierarchicalInheritance.java)
-- **Polymorphism**
-  Polymorphism allows one to perform a single action in different ways. In Java, it can be achieved through method overloading and method overriding.
+## OOPs Pillars
+The pillars of OOP (Object-Oriented Programming) are foundational concepts that define how to design and structure programs in an object-oriented way:
+
+### 1. **Inheritance**
+Inheritance is a mechanism where a new class inherits properties and behaviors from an existing class, promoting code reuse and hierarchical classification.
+
+- **Single Inheritance:**  
+  A class inherits from one single superclass. This is the simplest form of inheritance.  
+  [See the Program](OOPsPillers/Inheritance/SingleInheritance.java)
+
+- **Multiple Inheritance:**  
+  A class inherits from more than one superclass. Java does not support multiple inheritance directly to avoid the "diamond problem," but similar behavior can be achieved using interfaces.  
+  [See the Program](OOPsPillers/Inheritance/MultipleInheritanceUsingInterface.java)
+
+- **Multilevel Inheritance:**  
+  A class is derived from another class, which in turn is derived from another class, forming a chain of inheritance.  
+  [See the Program](OOPsPillers/Inheritance/MultilevelInheritance.java)
+
+- **Hybrid Inheritance:**  
+  A combination of two or more types of inheritance. Java supports hybrid inheritance using interfaces since multiple inheritance is not allowed directly.  
+  [See the Program](OOPsPillers/Inheritance/HybridInheritance.java)
+
+- **Hierarchical Inheritance:**  
+  Multiple classes inherit from a single superclass, creating a tree-like structure with one parent and multiple child classes.  
+  [See the Program](OOPsPillers/Inheritance/HierarchicalInheritance.java)
+
+### 2. **Polymorphism**
+Polymorphism allows objects to be treated as instances of their parent class, enabling one action to be performed in different ways. In Java, it can be achieved through:
+
+- **Method Overloading:**  
+  Multiple methods have the same name but different parameters within the same class.
+  [See the Program](OOPsPillers/Polymorphism/MethodOverLoading.java)
+
+- **Method Overriding:**  
+  A subclass provides a specific implementation of a method that is already defined in its superclass.
+  [See the Program](OOPsPillers/Polymorphism/MethodOverRidding.java)
+
+### 3. **Encapsulation**
+Encapsulation is the process of wrapping code and data together into a single unit, typically using private fields and public getter and setter methods to control access.
+
+- **Encapsulation Example:**  
+  Learn how encapsulation is achieved in Java through getter and setter methods.  
+  [See the Program](OOPsPillers/Encapsulation/EncapsulationExample.java)
+
+### 4. **Abstraction**
+Abstraction involves hiding the complex implementation details and showing only the essential features of the object. It can be achieved using abstract classes and interfaces.
+
+- **Abstraction Example:**  
+  Explore abstraction in Java through abstract classes and methods.  
 
  
 ## Programming Language and Tools
