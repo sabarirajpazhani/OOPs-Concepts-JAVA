@@ -148,6 +148,14 @@ A parameterized constructor is a constructor that takes arguments to initialize 
 
 - **Parameterized Constructor Example:**  
   [See the Program](Constructor/ParameterConstructor.java)
+
+## Abstraction
+Abstraction is one of the fundamental concepts of OOP that focuses on hiding the implementation details from the user and showing only the essential features of the object. In Java, abstraction is achieved using abstract classes and abstract methods.
+
+### 1. **Abstract Class**
+An abstract class in Java is a class that cannot be instantiated on its own and is meant to be subclassed. It may contain abstract methods (methods without a body) as well as concrete methods (methods with a body).
+
+
  
 ## Programming Language and Tools
 #### Programming Language
