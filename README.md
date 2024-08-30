@@ -159,7 +159,7 @@ An abstract class in Java is a class that cannot be instantiated on its own and 
 An abstract method is a method that is declared without an implementation (no body). It must be overridden by subclasses that inherit the abstract class.
 
 
-## Special Keywords
+## Special Keys
 Java provides several special keywords that have specific purposes and play an important role in the language's functionality. Here’s an overview of the special keywords `final`, `static`, `super`, and `this`.
 
 ### 1. **`final` Keyword**
