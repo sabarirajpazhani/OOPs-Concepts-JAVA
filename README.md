@@ -105,7 +105,18 @@ Encapsulation is the process of wrapping code and data together into a single un
 Abstraction involves hiding the complex implementation details and showing only the essential features of the object. It can be achieved using abstract classes and interfaces.
 
 - **Abstraction Example:**  
-  Explore abstraction in Java through abstract classes and methods.  
+  Explore abstraction in Java through abstract classes and methods.
+
+## Exception Handling
+Exception handling in Java is a powerful mechanism that handles runtime errors, ensuring the normal flow of the application is maintained. Java provides several keywords to handle exceptions such as `try`, `catch`, `throw`, `throws`, and `finally`.
+
+### 1. **ArithmeticException**
+This exception occurs when an arithmetic operation, such as division by zero, is attempted. Java automatically handles such exceptions, but you can also catch and handle them manually.
+
+- **ArithmeticException Example:**  
+  [See the Program](ExceptionalHandling/ArithmaticException.java)
+
+
 
  
 ## Programming Language and Tools
