@@ -186,7 +186,15 @@ The `this` keyword is used to refer to the current instance of the class. It can
 - **This Keyword Example:**  
   [See the Program](SpecialKeyWords/thisKey.java)
 
+## Interface
+An interface in Java is a reference type that is similar to a class. It is a collection of abstract methods and constant variables. Interfaces are used to achieve full abstraction and multiple inheritance in Java. A class implements an interface, thereby inheriting the abstract methods of the interface.
 
+### **Interface Example**
+An interface can contain multiple methods that the implementing class must provide. Interfaces can also extend other interfaces, allowing for a hierarchy of interfaces.
+
+- **Interface Example:**  
+  [See the Program](Interface.java)
+s
 
 
 ## Programming Language and Tools
