@@ -194,7 +194,21 @@ An interface can contain multiple methods that the implementing class must provi
 
 - **Interface Example:**  
   [See the Program](Interface.java)
-s
+
+## File Handling
+File handling in Java allows you to perform operations such as reading from and writing to files. Java provides several classes in the `java.io` package to handle files, including `FileReader`, `FileWriter`, `BufferedReader`, and `BufferedWriter`.
+
+### 1. **Reading from a File**
+Reading a file in Java involves opening the file, reading its contents, and then closing the file. This can be done using classes like `FileReader` and `BufferedReader`.
+
+- **Reading File Example:**  
+  [See the Program](FileHandling/ReadingFile.java)
+
+### 2. **Writing to a File**
+Writing to a file in Java involves creating or opening a file, writing data to it, and then closing the file. This can be done using classes like `FileWriter` and `BufferedWriter`.
+
+- **Writing File Example:**  
+  [See the Program](FileHandling/WrittingFile.java)
 
 
 ## Programming Language and Tools
