@@ -23,7 +23,7 @@ This repository contains a comprehensive guide and examples on Object-Oriented P
 - [Special Keys](#special-keys)
 - [Interface](#interface)
 - [File Handling](#file-handling)
-- [Tools Used](#tools-used)
+- [Programming Language and Tools](#programming-language-and-tools)
 
 ## Demo
 Explore a [Java Program Demo](Demo.java) that illustrates the key concepts of OOP in Java. This includes how to define classes, create objects, and call methods.
