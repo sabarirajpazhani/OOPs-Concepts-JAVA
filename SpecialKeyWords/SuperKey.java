@@ -11,7 +11,7 @@ class Father{
 class Daughter extends Father{
     char gender='F';
     void print(){
-        System.out.println(super.gender);  //it return the father gender - super key
+        System.out.println(super.gender);  //it return the father gender - super key   //used to refer the immediate parent class
         super.print();   //it print the Father's print method
     }
     
